@@ -7,4 +7,10 @@
 
 # Creates Backgrounds/ (directory) in /home/usr/ -- add images you want to use in this directory
 
+# Select fit for background image -- 0 for no image, 1 for stretch, 2 for zoom, 3 for fit, and 4 for center
+
+#  restart terminal
+
+# Enjoy!!!
+
 
